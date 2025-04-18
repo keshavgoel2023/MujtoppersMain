@@ -1,11 +1,11 @@
 import CardWithSelect from "@/components/CardSelectComponent";
 
-export default async function SubjectPage({
+export default function SubjectPage({
   params,
 }: {
-  params: Promise<{ branch: string; yearBranch: string }>;
+  params: { branch: string; yearBranch: string };
 }) {
-  const { branch, yearBranch } = await params;
+  const { branch, yearBranch } = params;
 
   const subjectsYearWise: Record<
     string,
