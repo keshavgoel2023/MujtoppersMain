@@ -24,13 +24,13 @@ export default function Page({
   const cards1 = [
     {
       title: "Physics Cycle",
-      src: "/Physics_Cycle.png",
+      src: "https://drive.google.com/uc?export=view&id=1H2c_ueMwgBdoORgUggJD_kbgCSZ0XxCf",
       href: "IT",
       onClick: () => router.push(`/branch/${yearBranch}/subjects/PhysicsCycle`),
     },
     {
       title: "Chemistry Cycle",
-      src: "/Chemistry_Cycle.png",
+      src: "https://drive.google.com/uc?export=view&id=1QWwh5MgiwLI_iIg1bxpAgYipsR3HS71x",
       href: "DSE",
       onClick: () => router.push(`/branch/${yearBranch}/subjects/ChemistryCycle`),
     },
@@ -39,25 +39,25 @@ export default function Page({
    const cards2 = [
      {
        title: "Information Technology",
-       src: "/IT_Branch.png",
+       src: "https://drive.google.com/uc?export=view&id=18H9YEgSw1vi9JKHJSIg7SEP9qCKBXA-P",
        href: "IT",
        onClick: () => router.push(`/branch/${yearBranch}/subjects/IT`),
      },
      {
        title: "Data Science",
-       src: "/DataScienceBranch.png",
+       src: "https://drive.google.com/uc?export=view&id=1EQUzMXCaDwxXPhCB_VusYY7GvrUgz30Q",
        href: "DSE",
        onClick: () => router.push(`/branch/${yearBranch}/subjects/DSE`),
      },
      {
        title: "Computer Science",
-       src: "/CSE_CORE_Branch.png",
+       src: "https://drive.google.com/uc?export=view&id=1Vl8thA882nGhb6NH6SSr7YBWz_jeNrKf",
        href: "CSE",
        onClick: () => router.push(`/branch/${yearBranch}/subjects/CSE`),
      },
      {
        title: "Internet of Things",
-       src: "/IOT_Branch.png",
+       src: "https://drive.google.com/uc?export=view&id=1WcP9Qnol-K5xfBtQUOniRzrqsnBvKlj2",
        href: "IOT",
        onClick: () => router.push(`/branch/${yearBranch}/subjects/IOT`),
      },
@@ -69,7 +69,7 @@ export default function Page({
      },
      {
        title: "Aritifical Intelligence & Machine Learning",
-       src: "/AIML_Branch.png",
+       src: "https://drive.google.com/uc?export=view&id=11NEW6knN3achQE6NWkjnXZAstWJwUW2S",
        href: "AIML",
        onClick: () => router.push(`/branch/${yearBranch}/subjects/AIML`),
      },
