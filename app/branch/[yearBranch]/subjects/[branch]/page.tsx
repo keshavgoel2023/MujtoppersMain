@@ -282,7 +282,7 @@ export default async function SubjectPage({
       third: [
         {
           name: "Foundation of Data Science",
-          image: "/3_IT/FDS.png",
+          image: "https://drive.google.com/uc?export=view&id=1jR0rI5zCdI71_94KujRlxEkAde6JL7vx",
           pyqLink:
             "https://drive.google.com/drive/folders/1PrIucd4gtsNaTNKBdU6J5KcrTgxASCio",
           notesLink:
@@ -292,7 +292,7 @@ export default async function SubjectPage({
         },
         {
           name: "Software Engineering",
-          image: "/3_IT/SE.png",
+          image: "https://drive.google.com/uc?export=view&id=1wD-Ic035J4HYLh_oAyTu36WQIxtmKUU8",
           pyqLink:
             "https://drive.google.com/drive/folders/1jzqaXTv75hX_BrBy2tnS8lFoI6GQr7h1",
           notesLink: "",
@@ -301,7 +301,7 @@ export default async function SubjectPage({
         },
         {
           name: "Design and Analysis of Algorithms",
-          image: "/3_CCE/DAA.png",
+          image: "https://drive.google.com/uc?export=view&id=1Y61tOWcnCOuDX0sPZ77rEzHfXy0soYDq",
           pyqLink:
             "https://drive.google.com/drive/folders/1E_WJSuhC628od_vEIB3zH-4-fTxqJruS",
           notesLink:
@@ -311,7 +311,7 @@ export default async function SubjectPage({
         },
         {
           name: "Computer Networks",
-          image: "/3_IT/CN.png",
+          image: "https://drive.google.com/uc?export=view&id=1KdRA2HnaY5D3Fg1F37znSf-b01Cft347",
           pyqLink:
             "https://drive.google.com/drive/folders/1NVbTT_qmguxOASC6hLdClvpVx0yujONv",
           notesLink:
@@ -321,7 +321,7 @@ export default async function SubjectPage({
         },
         {
           name: "Artificial Intelligence and Machine Learning",
-          image: "/3_IT/AI_ML.png",
+          image: "https://drive.google.com/uc?export=view&id=17REIE-n83P6mvJkOQT_WrGq9tMdjopy_",
           pyqLink:
             "https://drive.google.com/drive/folders/1oe4JzD_y_Iylz0EbkzW3UFCPOWHsielN",
           notesLink:
@@ -331,7 +331,7 @@ export default async function SubjectPage({
         },
         {
           name: "Automata & Compiler Design",
-          image: "/3_IT/ACD.png",
+          image: "https://drive.google.com/uc?export=view&id=1hKAgxZSwTpb6vbesBJjWIi4aHgX0K96l",
           pyqLink: "",
           notesLink:
             "https://drive.google.com/drive/folders/1w9HQdLofig_rM3zWnCgY9xlFZtQofucC",
@@ -340,7 +340,7 @@ export default async function SubjectPage({
         },
         {
           name: "CIS",
-          image: "/3_IT/CIS.png",
+          image: "https://drive.google.com/uc?export=view&id=1s3C_Q5ebbLi2ME7WXXSUz3P7XNIgRfcU",
           pyqLink: "",
           notesLink:
             "https://drive.google.com/drive/folders/1S4rZu_oRw-Bt6KNiRzrl_pIPvjdytl_9",
