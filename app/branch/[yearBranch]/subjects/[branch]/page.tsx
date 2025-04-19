@@ -25,7 +25,7 @@ export default async function SubjectPage({
       first: [
         {
           name: "Engineering Materials & Mechanics",
-          image: "/EMM.png",
+          image: "https://drive.google.com/uc?export=view&id=12e0p9vdgKLn3fa6POShm92SNTlS3D1FT",
           pyqLink:
             "https://drive.google.com/drive/u/0/folders/1w54A2Vd87DQtFwEoUuy8m0nX9rANb4RA",
           notesLink:
@@ -37,7 +37,7 @@ export default async function SubjectPage({
         },
         {
           name: "Biology For Engineers",
-          image: "/Biology.png",
+          image: "https://drive.google.com/uc?export=view&id=1ZC2Q_LIjyqc2127GWSszCdZ7_Z8S17_t",
           pyqLink:
             "https://drive.google.com/drive/u/0/folders/1kNkblB1RDznXNJmehDohPTvMGckCHAfY",
           notesLink:
@@ -49,7 +49,7 @@ export default async function SubjectPage({
         },
         {
           name: "Engineering Physics",
-          image: "/Physics.png",
+          image: "https://drive.google.com/uc?export=view&id=1smxlz3-_44JZygqzQqdAmE2SPGg6PjHf",
           pyqLink:
             "https://drive.google.com/drive/u/0/folders/1cdiHPynlmRHmneEPs7P6EV1DB7wzQGsh",
           notesLink:
@@ -61,7 +61,7 @@ export default async function SubjectPage({
         },
         {
           name: "Computational Mathematics",
-          image: "/C&M.png",
+          image: "https://drive.google.com/uc?export=view&id=1mKNfhI6zU-vNbVnkF55NFMAU-b1Jii4p",
           pyqLink:
             "https://drive.google.com/drive/u/0/folders/1wE3l2pM-frCwyFS8DaRIW13-XCbmnAmv",
           notesLink:
