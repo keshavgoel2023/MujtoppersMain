@@ -125,7 +125,7 @@ export default async function SubjectPage({
         },
         {
           name: "Problem Solving using Computers",
-          image: "/PSUC.png",
+          image: "https://drive.google.com/uc?export=view&id=12XnZ9NYxhznQJkrKKUo4bxUA1FPFTd9M",
           pyqLink:
             "https://drive.google.com/drive/folders/14E0SRP4X0EbccxY9jMo44E7_zlUEARJb",
           notesLink:
