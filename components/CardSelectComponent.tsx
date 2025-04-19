@@ -164,8 +164,10 @@ export default function CardWithSelect({
 
             {/* Roadmap image with zoom capabilities */}
             <div className="relative overflow-auto max-h-[60vh] sm:max-h-[70vh] flex justify-center">
-              <img
+              <Image
                 src={roadmap}
+                height={1000}
+                width={1000}
                 alt={`${subjectName} Roadmap`}
                 className="max-w-full object-contain"
                 onLoad={() => setIsImageLoading(false)}

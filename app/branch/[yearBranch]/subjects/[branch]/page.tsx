@@ -33,7 +33,7 @@ export default async function SubjectPage({
           playlistLink:
             "https://youtube.com/playlist?list=PLB_MQaW6RcutYOUEk_7Je8K-Z3ixz_4TS&si=lrOP6_OjoMmUWZR3",
           roadmap:
-            "https://res.cloudinary.com/dndyofbi8/image/upload/v1741887269/RoadMaps/lbx5d6voz4tthryaqhmv.png",
+            "https://drive.google.com/uc?export=view&id=1fjGChZpP3rbzVkZ0paTMR6RGLOpsg7OH",
         },
         {
           name: "Biology For Engineers",
@@ -45,7 +45,7 @@ export default async function SubjectPage({
           playlistLink:
             "https://youtube.com/playlist?list=PLB_MQaW6RcuukNazriXq2TZYTyq8D_5uR&si=miKXCJcM_Ao8uesi",
           roadmap:
-            "https://res.cloudinary.com/dndyofbi8/image/upload/v1741887269/RoadMaps/o4vwis57ft48pox5if44.png",
+            "https://drive.google.com/uc?export=view&id=1T5zICF1dFnYApzuu1nyw1vW_LbgAUasf",
         },
         {
           name: "Engineering Physics",
@@ -57,7 +57,7 @@ export default async function SubjectPage({
           playlistLink:
             "https://youtube.com/playlist?list=PLuAADu3OvBt495Awir13ZNM-gv5IwLGQy&si=1BSh9BoCqXFGAWei",
           roadmap:
-            "https://res.cloudinary.com/dndyofbi8/image/upload/v1741887268/RoadMaps/z18vg5vuoqvpp06tqeio.png",
+            "https://drive.google.com/uc?export=view&id=1tMWeeRZ-9qhmQ0hoMlngzVmXSei-wotk",
         },
         {
           name: "Computational Mathematics",
@@ -69,7 +69,7 @@ export default async function SubjectPage({
           playlistLink:
             "https://youtube.com/playlist?list=PLDh_nHdEw3KPPjngTAmQgcYY8zBA6kkX8&feature=shared",
           roadmap:
-            "https://res.cloudinary.com/dndyofbi8/image/upload/v1741887267/RoadMaps/ubzhdxxlucajxgatioal.png",
+            "https://drive.google.com/uc?export=view&id=1LA8-hkDjSbpyNv7B4r8714hQXdXXzRnf",
         },
         {
           name: "MATLAB",
@@ -81,7 +81,7 @@ export default async function SubjectPage({
           playlistLink:
             "https://youtube.com/playlist?list=PLB_MQaW6Rcut-VLlP29zTzka8hs24bqJ9&si=K7xlUK78s8e2TC3V",
           roadmap:
-            "https://res.cloudinary.com/dndyofbi8/image/upload/v1741887267/RoadMaps/rvhpz7ufrtmeyawulyxt.png",
+            "https://drive.google.com/uc?export=view&id=1Z5iIhj5j7em8VY-FNC9xkQUMJl5kX-ld",
         },
       ],
     },
@@ -97,7 +97,7 @@ export default async function SubjectPage({
           playlistLink:
             "https://www.youtube.com/watch?v=p5rBJj5CKCg&list=PLU6SqdYcYsfLPxjd-k-MaoG7qgRQ-2fKc",
           roadmap:
-            "https://res.cloudinary.com/dndyofbi8/image/upload/v1741887267/RoadMaps/ongrvhynp6lryhvrsua5.png",
+            "https://drive.google.com/uc?export=view&id=1Z5iIhj5j7em8VY-FNC9xkQUMJl5kX-ld",
         },
         {
           name: "Electrical & Electronics System",
@@ -109,7 +109,7 @@ export default async function SubjectPage({
           playlistLink:
             "https://www.youtube.com/watch?v=Vd2UJiIPbag&list=PL9RcWoqXmzaLTYUdnzKhF4bYug3GjGcEc",
           roadmap:
-            "https://res.cloudinary.com/dndyofbi8/image/upload/v1741887269/RoadMaps/bybkj1x0juxncpvtij3m.png",
+            "https://drive.google.com/uc?export=view&id=1v04EQEAuaP--i8Ax42NnpQxrLRhjOY8O",
         },
         {
           name: "Engineering Chemistry",
@@ -121,7 +121,7 @@ export default async function SubjectPage({
           playlistLink:
             "https://www.youtube.com/watch?v=XCZakSI-M0I&list=PLLf6O8XdGj03gLo6znlqJbMzgIgt8tSU1",
           roadmap:
-            "https://res.cloudinary.com/dndyofbi8/image/upload/v1741887268/RoadMaps/oyi0gutsftteevvthtl3.png",
+            "https://drive.google.com/uc?export=view&id=10H0SK2Ds-Ds7AOq1c0Jnx_yQlcE3-xcT",
         },
         {
           name: "Problem Solving using Computers",
@@ -133,7 +133,7 @@ export default async function SubjectPage({
           playlistLink:
             "https://www.youtube.com/watch?v=aZb0iu4uGwA&t=8493s&pp=ygUdYyBsYW5ndWFnZSBmb3IgYnRlY2ggMXN0IHllYXI%3D",
           roadmap:
-            "https://res.cloudinary.com/dndyofbi8/image/upload/v1741887267/RoadMaps/jkguajp0hhuepbv0mnps.png",
+            "https://drive.google.com/uc?export=view&id=1z157mHPpnqS9nuAURS0gR14bUGUt7Cap",
         },
         {
           name: "Technical Writing using Computers",
