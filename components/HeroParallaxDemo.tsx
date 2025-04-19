@@ -65,7 +65,7 @@ export const products = [
     title: "Jyotiraditya",
     link: "",
     thumbnail:
-      "https://res.cloudinary.com/ddjnudeq0/image/upload/v1742044058/10gpa/bexetscn1cmlrxhrrix4.png",
+      "https://drive.google.com/uc?export=view&id=1FGKw6No3fWd9xcg71zVBr0-FSzpCgsxD",
   },
   {
     title: "Swatantra choudhary",
@@ -78,24 +78,6 @@ export const products = [
     link: "https://algochurn.com",
     thumbnail:
       "https://drive.google.com/uc?export=view&id=1Skc37CQwtfdG-2QT51m0q5hlq_UGCBQQ",
-  },
-  {
-    title: "Swatantra choudhary",
-    link: "",
-    thumbnail:
-      "https://res.cloudinary.com/ddjnudeq0/image/upload/v1742044058/10gpa/rrztnf50oj1illajrh2q.png",
-  },
-  {
-    title: "Chanchal Agarwal",
-    link: "",
-    thumbnail:
-      "https://res.cloudinary.com/ddjnudeq0/image/upload/v1742044057/10gpa/hbigvf1dhaz08ewvlxdo.png",
-  },
-  {
-    title: "Diksha Dwivedi",
-    link: "",
-    thumbnail:
-      "https://res.cloudinary.com/ddjnudeq0/image/upload/v1742044056/10gpa/bztez12yuzbskczhfghj.png",
   },
 ];
 
