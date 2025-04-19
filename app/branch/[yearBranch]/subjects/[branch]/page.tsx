@@ -1168,7 +1168,7 @@ export default async function SubjectPage({
       third: [
         {
           name: "Design and Analysis of Algorithms",
-          image: "/3_IOT/DAA.png",
+          image: "https://drive.google.com/uc?export=view&id=1Y61tOWcnCOuDX0sPZ77rEzHfXy0soYDq",
           pyqLink: "",
           notesLink:
             "https://drive.google.com/drive/folders/1bz8PDtXLKbY0mYtbZLFWC-kx0CxGifpr",
@@ -1177,7 +1177,7 @@ export default async function SubjectPage({
         },
         {
           name: "Artificial Intelligence and Machine Learning",
-          image: "/3_IOT/AI_ML.png",
+          image: "https://drive.google.com/uc?export=view&id=17REIE-n83P6mvJkOQT_WrGq9tMdjopy_",
           pyqLink: "",
           notesLink:
             "https://drive.google.com/drive/folders/186JTWqITq4A3losWMRdc2mtM9QNxdOo5",
@@ -1186,7 +1186,7 @@ export default async function SubjectPage({
         },
         {
           name: "Sensors and Microcontrollers",
-          image: "/3_IOT/S&M.png",
+          image: "https://drive.google.com/uc?export=view&id=10DEoaPD9tHBf-W80Nqx9LelRpvI0MzRK",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -1194,7 +1194,7 @@ export default async function SubjectPage({
         },
         {
           name: "IoT Architecture & Its Protocols",
-          image: "/3_IOT/IOTARCH.png",
+          image: "https://drive.google.com/uc?export=view&id=1WdHJizyT5h5F5WbARPEnCOpGoP5JdgC-",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -1202,7 +1202,7 @@ export default async function SubjectPage({
         },
         {
           name: "Software Engineering",
-          image: "/3_IOT/SE.png",
+          image: "https://drive.google.com/uc?export=view&id=1wD-Ic035J4HYLh_oAyTu36WQIxtmKUU8",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -1210,7 +1210,7 @@ export default async function SubjectPage({
         },
         {
           name: "Cyber and Information Security",
-          image: "/3_IOT/CIS.png",
+          image: "https://drive.google.com/uc?export=view&id=1s3C_Q5ebbLi2ME7WXXSUz3P7XNIgRfcU",
           pyqLink: "",
           notesLink:
             "https://drive.google.com/drive/folders/1S4rZu_oRw-Bt6KNiRzrl_pIPvjdytl_9",
@@ -1219,7 +1219,7 @@ export default async function SubjectPage({
         },
         {
           name: "IoT Design",
-          image: "/3_IOT/IOT_DESIGN.png",
+          image: "https://drive.google.com/uc?export=view&id=1mNCVdyHIRsjbXAYRt4WWj6pVupNwS_ef",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -1227,7 +1227,7 @@ export default async function SubjectPage({
         },
         {
           name: "Deep Learning",
-          image: "/3_IOT/DL.png",
+          image: "https://drive.google.com/uc?export=view&id=1aIwlF4MOd1aRobztaWR2X6_Yy4k5YL2P",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -1235,7 +1235,7 @@ export default async function SubjectPage({
         },
         {
           name: "Computer Networks",
-          image: "/3_IOT/CN.png",
+          image: "https://drive.google.com/uc?export=view&id=1KdRA2HnaY5D3Fg1F37znSf-b01Cft347",
           pyqLink: "",
           notesLink:
             "https://drive.google.com/drive/folders/1Mm_wPEiV-BqDFRyMu4QNuuBJgZ2DtkLA",
