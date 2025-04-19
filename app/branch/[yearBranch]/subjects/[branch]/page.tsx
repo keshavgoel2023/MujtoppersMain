@@ -1378,7 +1378,7 @@ export default async function SubjectPage({
       third: [
         {
           name: "MFDS-3",
-          image: "/3_DSE/MFDS_3.png",
+          image: "https://drive.google.com/uc?export=view&id=1KsMxjB13BFV14JIFV4ELDlr9pUY1Bvyh",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -1386,7 +1386,7 @@ export default async function SubjectPage({
         },
         {
           name: "Deep Learning",
-          image: "/3_DSE/DL.png",
+          image: "https://drive.google.com/uc?export=view&id=1aIwlF4MOd1aRobztaWR2X6_Yy4k5YL2P",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -1394,7 +1394,7 @@ export default async function SubjectPage({
         },
         {
           name: "Operating Systems",
-          image: "/3_DSE/OS.png",
+          image: "https://drive.google.com/uc?export=view&id=1Vp8q0d1mUsX1urdyqsQ-tvXEmo41puSC",
           pyqLink: "",
           notesLink:
             "https://drive.google.com/drive/folders/1OyXy5-wtHfrhJw4efeOFaZGcLsiYKa4V",
@@ -1403,7 +1403,7 @@ export default async function SubjectPage({
         },
         {
           name: "Natural Language Processing",
-          image: "/3_DSE/NLP.png",
+          image: "https://drive.google.com/uc?export=view&id=1caQ_pI1NPeeaYIIudj8sIEwUPVSc93iU",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -1411,7 +1411,7 @@ export default async function SubjectPage({
         },
         {
           name: "Cloud Computing",
-          image: "/3_DSE/CC.png",
+          image: "https://drive.google.com/uc?export=view&id=1fQexXyH2rlWuC87MLZ0LYFuhATZc-H4X",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -1419,7 +1419,7 @@ export default async function SubjectPage({
         },
         {
           name: "Operations Research",
-          image: "/3_DSE/OR.png",
+          image: "https://drive.google.com/uc?export=view&id=1hFc0DHHPqkEcQsrd7mJTUspmxxLwreli",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -1427,7 +1427,7 @@ export default async function SubjectPage({
         },
         {
           name: "Artificial Intelligence",
-          image: "/3_DSE/AI.png",
+          image: "https://drive.google.com/uc?export=view&id=17REIE-n83P6mvJkOQT_WrGq9tMdjopy_",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -1435,7 +1435,7 @@ export default async function SubjectPage({
         },
         {
           name: "Parallel Programming",
-          image: "/3_DSE/PP.png",
+          image: "https://drive.google.com/uc?export=view&id=1rZRBxMKBqNAtRrVNYUHVL64Fem-aa3QO",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -1443,7 +1443,7 @@ export default async function SubjectPage({
         },
         {
           name: "Big Data Analytics",
-          image: "/3_DSE/BDA.png",
+          image: "https://drive.google.com/uc?export=view&id=1REsoHM7Uf17hokQpyYKnJs2z9hiVBKHK",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -1451,7 +1451,7 @@ export default async function SubjectPage({
         },
         {
           name: "Data Privacy and Security",
-          image: "/3_DSE/DPS.png",
+          image: "https://drive.google.com/uc?export=view&id=1adGQqazQRKa2N2sf87jlDo4Xg-F0-R-Z",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
