@@ -63,7 +63,7 @@ export default function Page({
      },
      {
        title: "Computer & Communication Engineering",
-       src: "/CCE_Branch.png",
+       src: "https://drive.google.com/uc?export=view&id=1UtKDRknI6z4t2jbzWkvKyMar97xycCXi",
        href: "CCE",
        onClick: () => router.push(`/branch/${yearBranch}/subjects/CCE`),
      },

@@ -721,7 +721,7 @@ export default async function SubjectPage({
         },
         {
           name: "Wirless Communication",
-          image: "/3_CCE/WC.png",
+          image: "https://drive.google.com/uc?export=view&id=1ENxgJhG7CTbyqkA-HN_7CdHRv3NtRcKz",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -973,7 +973,7 @@ export default async function SubjectPage({
         },
         {
           name: "Fundamentals of Automobile Engineering",
-          image: "/3_AIML/FAE.png",
+          image: "https://drive.google.com/uc?export=view&id=1hH6Xfo70buxfexfHdgXQOwcT9GhjkbJh",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
