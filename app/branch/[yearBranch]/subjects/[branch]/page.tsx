@@ -73,7 +73,7 @@ export default async function SubjectPage({
         },
         {
           name: "MATLAB",
-          image: "/MATLAB.png",
+          image: "https://drive.google.com/uc?export=view&id=11PYA8Fxu2SwQZQjwPNUQoLCQGxEBmRkE",
           pyqLink:
             "https://drive.google.com/drive/u/0/folders/1d75bxh_L7JvAKNheNZ3c6YOeqikO1CTB",
           notesLink:
@@ -89,7 +89,7 @@ export default async function SubjectPage({
       first: [
         {
           name: "Calculus & Matrices",
-          image: "/Calculus&Matrices.png",
+          image: "https://drive.google.com/uc?export=view&id=1r7JY2enZKDsHwPeJNG3B8iJhxcWSbQI_",
           pyqLink:
             "https://drive.google.com/drive/folders/1Pr_H4-fb_80Jo6Du96qIIpa6FIVEDTNm",
           notesLink:
@@ -101,7 +101,7 @@ export default async function SubjectPage({
         },
         {
           name: "Electrical & Electronics System",
-          image: "/Electrical&ElectronicsSystem.png",
+          image: "https://drive.google.com/uc?export=view&id=1aYcS7gt8soSOo0NGy9DIyg0YAa5qsrxF",
           pyqLink:
             "https://drive.google.com/drive/folders/1T2KhOCchylff1UyLZ2jyipmGmHtDx1Sd",
           notesLink:
@@ -113,7 +113,7 @@ export default async function SubjectPage({
         },
         {
           name: "Engineering Chemistry",
-          image: "/Chemistry.png",
+          image: "https://drive.google.com/uc?export=view&id=168b1gT3F4p6unOvraw4FQO_142aD7voY",
           pyqLink:
             "https://drive.google.com/drive/folders/1pP4zpZHNyD9Zp1peFPRYePpMXvwEWZCV",
           notesLink:
@@ -137,7 +137,7 @@ export default async function SubjectPage({
         },
         {
           name: "Technical Writing using Computers",
-          image: "/TWC.png",
+          image: "https://drive.google.com/uc?export=view&id=1INe2wYg489SO-kYD3Q41ntMakcNtBOCH",
           pyqLink:
             "https://drive.google.com/drive/folders/1Ka7AT18HKHu_WjIBSoloGI_9VHm-ar5t",
           notesLink:
