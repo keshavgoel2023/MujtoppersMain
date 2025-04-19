@@ -76,7 +76,7 @@ const outletData: OutletData[] = [
     description: "Traditional breakfast and snack items",
     phone: "",
     rating: 4.4,
-    imageUrl: "/kebabnation.jpeg",
+    imageUrl: "https://drive.google.com/uc?export=view&id=1_SGZKoeeoZACZA8gRQVohKlLpGP1ddk_",
     menuImages: ["/pooriBhajiMenu1.jpeg", "/pooriBhajiMenu2.jpeg"],
     location: "G1 Block",
   },
