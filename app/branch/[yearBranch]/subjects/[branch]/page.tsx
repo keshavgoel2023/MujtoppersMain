@@ -496,7 +496,7 @@ export default async function SubjectPage({
       third: [
         {
           name: "AISC",
-          image: "/3_CSE/AISC.png",
+          image: "https://drive.google.com/uc?export=view&id=1WJ24ToesdEgUWjAzcdHgYUBq-Onf9Nxl",
           pyqLink:
             "https://drive.google.com/drive/folders/1im02vRTo0uXT180Pguu7Hu8mkmO0XVa6",
           notesLink:
@@ -506,7 +506,7 @@ export default async function SubjectPage({
         },
         {
           name: "Design & Analysis of Algorithms",
-          image: "/3_CSE/DAA.png",
+          image: "https://drive.google.com/uc?export=view&id=1Y61tOWcnCOuDX0sPZ77rEzHfXy0soYDq",
           pyqLink:
             "https://drive.google.com/drive/folders/1-2qokPmfLDs2tvbEB6e2k2sUb7GRXk9d",
           notesLink:
@@ -516,7 +516,7 @@ export default async function SubjectPage({
         },
         {
           name: "Automata & Compiler Design",
-          image: "/3_CSE/ACD.png",
+          image: "https://drive.google.com/uc?export=view&id=1hKAgxZSwTpb6vbesBJjWIi4aHgX0K96l",
           pyqLink:
             "https://drive.google.com/drive/folders/1nDlLF44yvaJ6_Gf1ZQeSE6sO3k-YBUd3",
           notesLink:
@@ -526,7 +526,7 @@ export default async function SubjectPage({
         },
         {
           name: "Computer Networks",
-          image: "/3_CSE/CN.png",
+          image: "https://drive.google.com/uc?export=view&id=1KdRA2HnaY5D3Fg1F37znSf-b01Cft347",
           pyqLink:
             "https://drive.google.com/drive/folders/1npItudoofzWfIo-XnDyGEe2IC1qw-fF7",
           notesLink:
@@ -536,7 +536,7 @@ export default async function SubjectPage({
         },
         {
           name: "Software Engineering",
-          image: "/3_CSE/SE.png",
+          image: "https://drive.google.com/uc?export=view&id=1wD-Ic035J4HYLh_oAyTu36WQIxtmKUU8",
           pyqLink:
             "https://drive.google.com/drive/folders/19eu_8cShgL90QmT7VprO03r1tE911pBj",
           notesLink: "",
@@ -545,7 +545,7 @@ export default async function SubjectPage({
         },
         {
           name: "ISS",
-          image: "/3_CSE/ISS.png",
+          image: "https://drive.google.com/uc?export=view&id=1qCLJUCs20Ob1UVMiHmDy0VOJMmqtAQsl",
           pyqLink:
             "https://drive.google.com/drive/folders/11lhy9hIC0Vcxa3mSvsHydvuTmn7m1bGM",
           notesLink:
@@ -555,7 +555,7 @@ export default async function SubjectPage({
         },
         {
           name: "Data Science & ML",
-          image: "/3_CSE/DS&ML.png",
+          image: "https://drive.google.com/uc?export=view&id=1Uk5oQY7KtQMDJd9KaqinKnkj-sRULA9F",
           pyqLink:
             "https://drive.google.com/drive/folders/10Wwm_K-yeBv5IAeBVg8-6W4reho90w1s",
           notesLink: "",
@@ -683,7 +683,7 @@ export default async function SubjectPage({
       third: [
         {
           name: "Foundation of Data Science",
-          image: "/3_CCE/FDS.png",
+          image: "https://drive.google.com/uc?export=view&id=1jR0rI5zCdI71_94KujRlxEkAde6JL7vx",
           pyqLink:
             "https://drive.google.com/drive/folders/1xddaS8pXxUVaCmRuYfcII2dp8NlexkwRhttps://drive.google.com/drive/folders/1x_5CR-Z12iasyk2InCKzDpq-kkxCroi2",
           notesLink:
@@ -693,7 +693,7 @@ export default async function SubjectPage({
         },
         {
           name: "Software Engineering",
-          image: "/3_CCE/SE.png",
+          image: "https://drive.google.com/uc?export=view&id=1wD-Ic035J4HYLh_oAyTu36WQIxtmKUU8",
           pyqLink:
             "https://drive.google.com/drive/folders/1cOnLh-gi2kVRGp25tXQk7JcfDmr2yoEv",
           notesLink: "",
@@ -702,7 +702,7 @@ export default async function SubjectPage({
         },
         {
           name: "Design and Analysis of Algorithms",
-          image: "/3_CCE/DAA.png",
+          image: "https://drive.google.com/uc?export=view&id=1Y61tOWcnCOuDX0sPZ77rEzHfXy0soYDq",
           pyqLink: "",
           notesLink:
             "https://drive.google.com/drive/folders/1bz8PDtXLKbY0mYtbZLFWC-kx0CxGifpr",
@@ -711,7 +711,7 @@ export default async function SubjectPage({
         },
         {
           name: "Automata and Compiler Design",
-          image: "/3_CCE/ACD.png",
+          image: "https://drive.google.com/uc?export=view&id=1hKAgxZSwTpb6vbesBJjWIi4aHgX0K96l",
           pyqLink:
             "https://drive.google.com/drive/folders/1oKqE8f1UMKN3KpXgDZ2kCXBie2PdH_4o",
           roadmap: "",
@@ -729,7 +729,7 @@ export default async function SubjectPage({
         },
         {
           name: "Aritificial Intelligence & Machine Learning",
-          image: "/3_CCE/AL_ML.png",
+          image: "https://drive.google.com/uc?export=view&id=17REIE-n83P6mvJkOQT_WrGq9tMdjopy_",
           pyqLink: "",
           notesLink:
             "https://drive.google.com/drive/folders/186JTWqITq4A3losWMRdc2mtM9QNxdOo5",
@@ -896,7 +896,7 @@ export default async function SubjectPage({
       third: [
         {
           name: "Soft Computing Methods",
-          image: "/3_AIML/SCM.png",
+          image: "https://drive.google.com/uc?export=view&id=1-Q0_WEELfJRNu-2kEJAbSzViAq8b-2Wx",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -904,7 +904,7 @@ export default async function SubjectPage({
         },
         {
           name: "Design and Analysis of Algorithms",
-          image: "/3_AIML/DAA.png",
+          image: "https://drive.google.com/uc?export=view&id=1Y61tOWcnCOuDX0sPZ77rEzHfXy0soYDq",
           pyqLink: "",
           notesLink:
             "https://drive.google.com/drive/folders/1bz8PDtXLKbY0mYtbZLFWC-kx0CxGifpr",
@@ -913,7 +913,7 @@ export default async function SubjectPage({
         },
         {
           name: "Computer Networks",
-          image: "/3_AIML/CN.png",
+          image: "https://drive.google.com/uc?export=view&id=1KdRA2HnaY5D3Fg1F37znSf-b01Cft347",
           pyqLink: "",
           notesLink:
             "https://drive.google.com/drive/folders/1Mm_wPEiV-BqDFRyMu4QNuuBJgZ2DtkLA",
@@ -922,7 +922,7 @@ export default async function SubjectPage({
         },
         {
           name: "Foundation of Data Science",
-          image: "/3_AIML/FDS.png",
+          image: "https://drive.google.com/uc?export=view&id=1jR0rI5zCdI71_94KujRlxEkAde6JL7vx",
           pyqLink: "",
           notesLink:
             "https://drive.google.com/drive/folders/1g8wLoBupfl2KdSSYuAmf1eToQJm5Ukt1",
@@ -931,7 +931,7 @@ export default async function SubjectPage({
         },
         {
           name: "Game Theory",
-          image: "/3_AIML/GT.png",
+          image: "https://drive.google.com/uc?export=view&id=13OguxYlppwJG2TkEEx8NH6tUWKD4WLw6",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -939,7 +939,7 @@ export default async function SubjectPage({
         },
         {
           name: "Machine Learning",
-          image: "/3_AIML/ML.png",
+          image: "https://drive.google.com/uc?export=view&id=16T-aMZChOXgxOmRD2h5XF2mfkR5zhfbV",
           pyqLink: "",
           notesLink:
             "https://drive.google.com/drive/folders/1OQuVLErNef2wpx6zjF2LhNbinlaeIy8a",
@@ -948,7 +948,7 @@ export default async function SubjectPage({
         },
         {
           name: "Computer Vision",
-          image: "/3_AIML/CV.png",
+          image: "https://drive.google.com/uc?export=view&id=1D3fNWDBB0VZ4qiz8H3dhlbaYsGxv_I7L",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -956,7 +956,7 @@ export default async function SubjectPage({
         },
         {
           name: "Natural Language Processing",
-          image: "/3_AIML/NLP.png",
+          image: "https://drive.google.com/uc?export=view&id=1caQ_pI1NPeeaYIIudj8sIEwUPVSc93iU",
           pyqLink: "",
           notesLink: "",
           playlistLink: "",
@@ -964,7 +964,7 @@ export default async function SubjectPage({
         },
         {
           name: "Data Mining",
-          image: "/3_AIML/DM.png",
+          image: "https://drive.google.com/uc?export=view&id=1fJmZn9OezOmt8nnzbvYCD8tWtP6Bi0ai",
           pyqLink: "",
           notesLink:
             "https://drive.google.com/drive/folders/1w0o1JlIOp5kcQLhfv19cBHmLzWZye6Te",
