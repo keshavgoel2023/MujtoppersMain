@@ -305,7 +305,7 @@ export default function ExamTipsPage() {
                   }}
                 >
                   <Image
-                    src="https://res.cloudinary.com/dndyofbi8/image/upload/v1741894800/u58davqznjicmy6s24bb.jpg"
+                    src="https://drive.google.com/uc?export=view&id=1fXHOFxymwqizY50aHR_JwjDcexCqpp0e"
                     alt="Community Image"
                     width={500}
                     height={500}

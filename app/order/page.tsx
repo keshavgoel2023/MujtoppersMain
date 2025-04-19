@@ -36,8 +36,8 @@ const outletData: OutletData[] = [
     description: "Quick, delicious meals for people on the go",
     phone: "8112257659",
     rating: 4.5,
-    imageUrl: "/miniMeals.jpeg",
-    menuImages: ["/miniMealsMenu1.jpeg", "/miniMealsMenu2.jpeg"],
+    imageUrl: "https://drive.google.com/uc?export=view&id=1C6C4U19wKTith3NZRnLdiAHGNIdQXM-v",
+    menuImages: ["https://drive.google.com/uc?export=view&id=12x5bBBdwqG67e9zjogB6gDdnjF5K1tpe", "https://drive.google.com/uc?export=view&id=1IIFSdIlTy5OL_sSFSA3EOkBxW817xJ4W"],
     location: "B1 Block",
   },
   {
@@ -46,8 +46,8 @@ const outletData: OutletData[] = [
     description: "Authentic regional cuisine with a modern twist",
     phone: "7357549601",
     rating: 4.5,
-    imageUrl: "/saras.jpeg",
-    menuImages: ["/sarasMenu1.jpeg"],
+    imageUrl: "https://drive.google.com/uc?export=view&id=1xiruB80LSSotylqNSgih8T_s0INuCvZD",
+    menuImages: ["https://drive.google.com/uc?export=view&id=1TGx5OuTyne8LnKODeHQGeMK5nOWyD4Ey"],
     location: "G1 Block",
   },
   {
@@ -56,8 +56,8 @@ const outletData: OutletData[] = [
     description: "Premium grilled kababs and Middle Eastern delicacies",
     phone: "9001282566",
     rating: 4.7,
-    imageUrl: "/kebabnation.jpeg",
-    menuImages: ["/kebabNationMenu1.jpeg"],
+    imageUrl: "https://drive.google.com/uc?export=view&id=1_SGZKoeeoZACZA8gRQVohKlLpGP1ddk_",
+    menuImages: ["https://drive.google.com/uc?export=view&id=10Ra3Y2hoGWuSv-ftLjNYAMm0MDFQNlCH"],
     location: "G1 Block",
   },
   {
@@ -66,7 +66,7 @@ const outletData: OutletData[] = [
     description: "Farm-to-table healthy eating options",
     phone: "",
     rating: 4.6,
-    imageUrl: "/sanchay.jpeg",
+    imageUrl: "https://drive.google.com/uc?export=view&id=10vPX8L1u6dGXYlphEObM6pDbdSR_q913",
     menuImages: ["/sanchayMenu1.jpeg", "/sanchayMenu2.jpeg"],
     location: "G1 Block",
   },
@@ -165,7 +165,7 @@ export default function OutletShowcase() {
       >
         <div className="absolute inset-0 bg-black/50 z-10" />
         <Image
-          src="/restaurantBanner.jpeg"
+          src="https://drive.google.com/uc?export=view&id=1ouKHsULfS5Efce1IBKcSLRphQn6RfOie"
           alt="Food Outlets Banner"
           width={1920}
           height={600}
