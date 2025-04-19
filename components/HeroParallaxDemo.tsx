@@ -11,55 +11,55 @@ export const products = [
     title: "Diksha Dwivedi",
     link: "",
     thumbnail:
-      "https://res.cloudinary.com/ddjnudeq0/image/upload/v1742044056/10gpa/bztez12yuzbskczhfghj.png",
+      "https://drive.google.com/uc?export=view&id=1wD_K9UalbhajIsCUmqt6D6W2iYZBY_9E",
   },
   {
     title: "Chetanya Jolly",
     link: "",
     thumbnail:
-      "https://res.cloudinary.com/ddjnudeq0/image/upload/v1742044057/10gpa/dzxvsvcgqd5diymorlke.png",
+      "https://drive.google.com/uc?export=view&id=1m5tWVGwxc2i768SlVAzVPfVMLKy_xPHX",
   },
   {
     title: "Chandra T.Pandey",
     link: "",
     thumbnail:
-      "https://res.cloudinary.com/ddjnudeq0/image/upload/v1742044059/10gpa/gcossxpzsu4gguokyd9r.png",
+      "https://drive.google.com/uc?export=view&id=1J_OFrh0z1Nd_jnK9ry_78Ky1m__A0_vB",
   },
   {
     title: "Sanya Dureja",
     link: "",
     thumbnail:
-      "https://res.cloudinary.com/ddjnudeq0/image/upload/v1742044057/10gpa/pzzrnps4kwpppcjg7yt0.png",
+      "https://drive.google.com/uc?export=view&id=1_s0wS8LAhB5hPHLi4FHO5lW6GlW4q3Y6",
   },
   {
     title: "Chanchal Agarwal",
     link: "",
     thumbnail:
-      "https://res.cloudinary.com/ddjnudeq0/image/upload/v1742044057/10gpa/hbigvf1dhaz08ewvlxdo.png",
+      "https://drive.google.com/uc?export=view&id=1N5jHvBaz2dZt4YZanokB4SWgBH3Hml2Y",
   },
   {
     title: "Bhoomika Gupta",
     link: "",
     thumbnail:
-      "https://res.cloudinary.com/ddjnudeq0/image/upload/v1742044057/10gpa/uvlsx8thddpn3mqaa4l8.png",
+      "https://drive.google.com/uc?export=view&id=1Ios4hg_Ya6khwr-5yOGFhKu1bS2KP1xM",
   },
   {
     title: "Maldev Singh Chouhan",
     link: "",
     thumbnail:
-      "https://res.cloudinary.com/ddjnudeq0/image/upload/v1742044057/10gpa/kc8agi42mi4clc1mi9ao.png",
+      "https://drive.google.com/uc?export=view&id=1iL4O2LmLEufIjQrbyd8m6YaDIXLk_uvx",
   },
   {
     title: "Shivam Kumar",
     link: "",
     thumbnail:
-      "https://res.cloudinary.com/ddjnudeq0/image/upload/v1742044058/10gpa/jawliv1tuifhjkxnpjpq.png",
+      "https://drive.google.com/uc?export=view&id=1fxtcSlrLjVrEt9mzwXMg26KcOVq681AH",
   },
   {
     title: "Harsh Shishodia",
     link: "",
     thumbnail:
-      "https://res.cloudinary.com/ddjnudeq0/image/upload/v1742044057/10gpa/g88bmzwyjuibx9b1dsu3.png",
+      "https://drive.google.com/uc?export=view&id=1O_eyGRZ6ZC9DVHnaqcAOOxgXKuKrX1Od",
   },
   {
     title: "Jyotiraditya",
@@ -71,13 +71,13 @@ export const products = [
     title: "Swatantra choudhary",
     link: "",
     thumbnail:
-      "https://res.cloudinary.com/ddjnudeq0/image/upload/v1742044058/10gpa/rrztnf50oj1illajrh2q.png",
+      "https://drive.google.com/uc?export=view&id=1H8uraRVzImCBiGSNkhi9VCggg_GTpqGg",
   },
   {
     title: "Anish Deep Gulde",
     link: "https://algochurn.com",
     thumbnail:
-      "https://res.cloudinary.com/ddjnudeq0/image/upload/v1742044057/10gpa/dkeep8gd35szdxni34ld.png",
+      "https://drive.google.com/uc?export=view&id=1Skc37CQwtfdG-2QT51m0q5hlq_UGCBQQ",
   },
   {
     title: "Swatantra choudhary",
