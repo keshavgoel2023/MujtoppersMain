@@ -19,7 +19,7 @@ export function TimelineDemo() {
           </p>
           <div className="grid grid-cols-1">
             <Image
-              src="https://res.cloudinary.com/dndyofbi8/image/upload/v1742031794/wzx4i6mz9jwxnijqf3sx.png"
+              src="https://drive.google.com/uc?export=view&id=1qV0T41ePEDBnbSO19_C2WWsqkGUxyGXS"
               alt="startup template"
               width={750}
               height={750}
@@ -43,7 +43,7 @@ export function TimelineDemo() {
           </p>
           <div className="grid grid-cols-1">
             <Image
-              src="https://res.cloudinary.com/dndyofbi8/image/upload/v1742031794/oehrlfxavvvvot5mvafr.png"
+              src="https://drive.google.com/uc?export=view&id=1SRMI73DMJKFtd6UlBFm0FJmZ2SfSSLvl"
               alt="hero template"
               width={1000}
               height={1000}
@@ -83,7 +83,7 @@ export function TimelineDemo() {
 
           <div className="grid grid-cols-1">
             <Image
-              src="https://res.cloudinary.com/dndyofbi8/image/upload/v1742031794/zrz9mhx59ezgzmm3pcqt.png"
+              src="https://drive.google.com/uc?export=view&id=1YAnhvQ8XZFpmOya5K52UMlBCnl87-E9t"
               alt="hero template"
               width={1000}
               height={1000}

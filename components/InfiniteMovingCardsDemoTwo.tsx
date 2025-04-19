@@ -22,7 +22,7 @@ const testimonials = [
     name: "https://www.linkedin.com/company/muj-toppers/about/?viewAsMember=true",
     title: "A Tale of Two Cities",
     image:
-      "https://res.cloudinary.com/dndyofbi8/image/upload/v1742033111/SocialHandles/j6dp9hbor6ujgtm556rx.png",
+      "https://drive.google.com/uc?export=view&id=1oxo3VndCN2L93a5TE5kBbtirVHnX7ec4",
   },
   {
     quote:
@@ -30,7 +30,7 @@ const testimonials = [
     name: "https://chat.whatsapp.com/EU9X6uJp8skIqRE1loeSDq",
     title: "Hamlet",
     image:
-      "https://res.cloudinary.com/dndyofbi8/image/upload/v1742033117/SocialHandles/z3kevsvqg5ot9i6twf2x.png",
+      "https://drive.google.com/uc?export=view&id=1G2uDGrUAVuuUWjglz5hU2_xzk-eR46Va",
   },
   {
     quote:
@@ -38,6 +38,6 @@ const testimonials = [
     name: "https://www.instagram.com/mujtoppers/",
     title: "Hamlet",
     image:
-      "https://res.cloudinary.com/dndyofbi8/image/upload/v1742033114/SocialHandles/uetdb0ts2cc40zymnlza.png",
+      "https://drive.google.com/uc?export=view&id=19RmBYYi6EVXrqY3PXhW9B6qEt92cl-nb",
   },
 ];

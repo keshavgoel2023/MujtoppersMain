@@ -1,10 +1,11 @@
 "use client";
 import React from "react";
 import { ContainerScroll } from "@/components/ui/container-scroll-animation";
+import Image from "next/image";
 
 export function HeroScrollDemo() {
   return (
-    <div className="flex flex-col overflow-hidden w-full">
+    <div className="relative flex flex-col overflow-hidden w-full h-full">
       <ContainerScroll
         titleComponent={
           <>
@@ -17,19 +18,13 @@ export function HeroScrollDemo() {
           </>
         }
       >
-        <div className="w-full h-full rounded-2xl overflow-hidden">
-          <video
-            src="./LandingVideo.mp4"
-            className="w-full h-full object-cover"
-            style={{
-              minHeight: "100%",
-              minWidth: "100%",
-            }}
-            draggable={false}
-            autoPlay
-            loop
-            muted
-            playsInline
+        <div className="relative w-full h-full rounded-2xl overflow-hidden">
+          <Image
+            src="/heroImage.webp"
+            alt="Campus life at Manipal University Jaipur"
+            fill
+            className="object-cover"
+            sizes="100vw"
           />
         </div>
       </ContainerScroll>
