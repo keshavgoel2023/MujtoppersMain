@@ -34,6 +34,7 @@ export default function CardWithSelect({
   notesLink,
   playlistLink,
   roadmap,
+  pptLink,
 }: {
   subjectName: string;
   subjectImage: string;
@@ -41,6 +42,7 @@ export default function CardWithSelect({
   notesLink: string;
   playlistLink: string;
   roadmap: string;
+  pptLink: string;
 }) {
   const [selectedValue, setSelectedValue] = React.useState<string | null>(null);
   const [isRoadmapOpen, setIsRoadmapOpen] = React.useState(false);
@@ -57,6 +59,7 @@ export default function CardWithSelect({
         pyq: pyqLink,
         notes: notesLink,
         playlist: playlistLink,
+        ppt: pptLink,
       };
 
       if (links[value]) {
@@ -136,6 +139,15 @@ export default function CardWithSelect({
               >
                 🛣️ Road Map
               </SelectItem>
+              {pptLink && (
+                <SelectItem
+                  value="ppt"
+                  className="cursor-pointer transition-colors hover:bg-gray-50 text-sm sm:text-base"
+                >
+                  📑 PPT Links
+                </SelectItem>
+              )}
+
             </SelectGroup>
           </SelectContent>
         </Select>
