@@ -35,7 +35,7 @@ export default async function SubjectPage({
             "https://youtube.com/playlist?list=PLB_MQaW6RcutYOUEk_7Je8K-Z3ixz_4TS&si=lrOP6_OjoMmUWZR3",
           roadmap:
             "https://drive.google.com/uc?export=view&id=1fjGChZpP3rbzVkZ0paTMR6RGLOpsg7OH",
-            pptLink:"hi"
+            pptLink:"https://drive.google.com/drive/folders/1WonGMHUbrQ_LnZrF024GMbiYZxuNUk_Z"
         },
         {
           name: "Biology For Engineers",
@@ -44,7 +44,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/178MPsfJrZA6TSfvdAbdpcjww1KFAeXiL",
           playlistLink: "https://youtube.com/playlist?list=PLB_MQaW6RcuukNazriXq2TZYTyq8D_5uR&si=miKXCJcM_Ao8uesi",
           roadmap: "https://drive.google.com/uc?export=view&id=1T5zICF1dFnYApzuu1nyw1vW_LbgAUasf",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1Pso9gArXWDPQm_6TCxTjaZ_d5sW1nT3-"
         },
         {
           name: "Engineering Physics",
@@ -53,7 +53,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/u/0/folders/17txyc5ZmKvQepWdVK1TCnJQgxaoou6Ke",
           playlistLink: "https://youtube.com/playlist?list=PLuAADu3OvBt495Awir13ZNM-gv5IwLGQy&si=1BSh9BoCqXFGAWei",
           roadmap: "https://drive.google.com/uc?export=view&id=1tMWeeRZ-9qhmQ0hoMlngzVmXSei-wotk",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1vLEnibhuw07qeEWdmO3hHFX2VIqULpvh"
         },
         {
           name: "Computational Mathematics",
@@ -62,7 +62,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/u/0/folders/17PMTzl-T1TOhnpWUxlVwIkY7OGhDM7TO",
           playlistLink: "https://youtube.com/playlist?list=PLDh_nHdEw3KPPjngTAmQgcYY8zBA6kkX8&feature=shared",
           roadmap: "https://drive.google.com/uc?export=view&id=1LA8-hkDjSbpyNv7B4r8714hQXdXXzRnf",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/16VmBA-chzfPISVOTn_lIT8fdsOPCjuSL"
         },
         {
           name: "MATLAB",
@@ -71,7 +71,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/u/0/folders/1VVt2FfnbjhGTebrL7ditH--K_BfWMJZa",
           playlistLink: "https://youtube.com/playlist?list=PLB_MQaW6Rcut-VLlP29zTzka8hs24bqJ9&si=K7xlUK78s8e2TC3V",
           roadmap: "https://drive.google.com/uc?export=view&id=1Z5iIhj5j7em8VY-FNC9xkQUMJl5kX-ld",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1A6qZYx7bSjd2DpnLz4XRFOkA0YajIaDm"
         },
       ],
     },
