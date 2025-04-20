@@ -93,7 +93,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1JnVhkK5vg93hTzYq11Cr7NE8seneqdU1",
           playlistLink: "https://www.youtube.com/watch?v=Vd2UJiIPbag&list=PL9RcWoqXmzaLTYUdnzKhF4bYug3GjGcEc",
           roadmap: "https://drive.google.com/uc?export=view&id=1v04EQEAuaP--i8Ax42NnpQxrLRhjOY8O",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1S7DJykfKHTnETHV4ABmaJ0g7H9vCoZbp"
         },
         {
           name: "Engineering Chemistry",
@@ -102,7 +102,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1hER7WzvapxKzG4i3pIayLRU3ICTYwjSF",
           playlistLink: "https://www.youtube.com/watch?v=XCZakSI-M0I&list=PLLf6O8XdGj03gLo6znlqJbMzgIgt8tSU1",
           roadmap: "https://drive.google.com/uc?export=view&id=10H0SK2Ds-Ds7AOq1c0Jnx_yQlcE3-xcT",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1xuQFW0faBSTQdQw5nzJoi646hlLdoysw"
         },
         {
           name: "Problem Solving using Computers",
@@ -111,7 +111,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1nj16NcCCIgI3kmmkT-eisrKg_BKN2yKA",
           playlistLink: "https://www.youtube.com/watch?v=aZb0iu4uGwA&t=8493s&pp=ygUdYyBsYW5ndWFnZSBmb3IgYnRlY2ggMXN0IHllYXI%3D",
           roadmap: "https://drive.google.com/uc?export=view&id=1z157mHPpnqS9nuAURS0gR14bUGUt7Cap",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1RDgE5dQQh7m6MiM3He8eBJAgu0mpd6ax"
         },
         {
           name: "Technical Writing using Computers",
@@ -120,7 +120,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1y-t8alIoH2J7w_f1vBWYTWKcYkpHAIDV",
           playlistLink: "",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1EJvTLXLNNGXs26FfqDtPMg-oAJxVFyX_"
         },
       ],
     },
