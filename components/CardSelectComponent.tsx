@@ -133,12 +133,14 @@ export default function CardWithSelect({
               >
                 🎥 Video Playlist
               </SelectItem>
-              <SelectItem
-                value="roadmap"
-                className="cursor-pointer transition-colors hover:bg-gray-50 text-sm sm:text-base"
-              >
-                🛣️ Road Map
-              </SelectItem>
+              {roadmap && (
+                <SelectItem
+                  value="roadmap"
+                  className="cursor-pointer transition-colors hover:bg-gray-50 text-sm sm:text-base"
+                >
+                  🛣️ Road Map
+                </SelectItem>
+              )}
               {pptLink && (
                 <SelectItem
                   value="ppt"
@@ -147,7 +149,6 @@ export default function CardWithSelect({
                   📑 PPT Links
                 </SelectItem>
               )}
-
             </SelectGroup>
           </SelectContent>
         </Select>
