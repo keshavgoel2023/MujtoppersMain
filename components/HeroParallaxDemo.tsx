@@ -35,7 +35,7 @@ export const products = [
     title: "Chanchal Agarwal",
     link: "",
     thumbnail:
-      "https://drive.google.com/uc?export=view&id=1N5jHvBaz2dZt4YZanokB4SWgBH3Hml2Y",
+      "/chanchalPhoto.jpeg",
   },
   {
     title: "Bhoomika Gupta",
@@ -71,13 +71,13 @@ export const products = [
     title: "Swatantra choudhary",
     link: "",
     thumbnail:
-      "https://drive.google.com/uc?export=view&id=1H8uraRVzImCBiGSNkhi9VCggg_GTpqGg",
+      "/swatantraPhoto.jpeg",
   },
   {
     title: "Anish Deep Gulde",
     link: "https://algochurn.com",
     thumbnail:
-      "https://drive.google.com/uc?export=view&id=1Skc37CQwtfdG-2QT51m0q5hlq_UGCBQQ",
+      "/anishPhoto.jpeg",
   },
 ];
 
