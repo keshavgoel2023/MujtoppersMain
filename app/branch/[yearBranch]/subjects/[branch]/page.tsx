@@ -1082,7 +1082,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1dDwjgCXib5prviOhnfvg__E625750iZb",
           playlistLink: "https://youtube.com/playlist?list=PLsyeobzWxl7oa1WO9n4cP3OY9nOtUcZIg&si=B4TquaHpOkdOaRZQ",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1fEiCL0_OhMKc8Fe6Qh6_BW8GaW7HuJPh"
         },
         {
           name: "Data Structures and Algorithms",
@@ -1091,7 +1091,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1XlZbicmJD80dPDwCGnINvMDlsnxNUcrA",
           playlistLink: "https://youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU&feature=shared",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1VE8TqaxwQnboaqJU29uLrE_cGvflvHfA"
         },
         {
           name: "Computer System Architecture",
@@ -1100,7 +1100,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/10wjhn9aGixqaIa2BQGGZ-yOAEqcTZKHq",
           playlistLink: "https://youtu.be/DsK35f8wyUw?si=aEQyCkYhVlPywhka",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1tg5DjbkjRQ_qYeSO6hKT7pJPlWlNC51R"
         },
         {
           name: "Relational Database Management Systems",
@@ -1109,7 +1109,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1jk_FY3TwT63OUbNOI1tmucZvp4CvQtDZ",
           playlistLink: "https://youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV&si=V8GTDj7xybd_D5b2",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1w8UCf8pp-rFrI94WtuywN52i5VVqsY76"
         },
         {
           name: "Machine Learning",
@@ -1118,7 +1118,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1_87ctDdlSxHR5BHQEByY09qxDh7fFgTj",
           playlistLink: "https://youtube.com/playlist?list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ&si=1NcBPhGTXB8JSJDJ",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1eyjUPDVgKtsQkvS57NN7SOcaSDLSsnfv"
         },
         {
           name: "Management of Technology",
@@ -1127,7 +1127,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1SaleDZd8IjgQLHerSXnn6MjdFyimEdaC",
           playlistLink: "",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1WhUiosJFJ0iU1jVUIrzOHTA3ej6PRZ7d"
         },
         {
           name: "Data Mining",
@@ -1145,7 +1145,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1TdrgiDukGedsPSjYRxMSwQsZOsamh9dC",
           playlistLink: "",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1gZkOV7xmG7Vf48qGSRGNJriWUNfyzsWN"
         },
         {
           name: "Computer Networks",
@@ -1154,7 +1154,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1nMZ3yYzp9rYiGDb0f3lqL0jqqz-dNtg0",
           playlistLink: "https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&si=e3p8n480ABME9G8d",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1zG-BWmiewwlHDg353J4toFNLmqzPWkby"
         },
         {
           name: "Statistics and Probability",
