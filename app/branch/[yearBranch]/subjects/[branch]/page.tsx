@@ -629,7 +629,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/187KV-bondddfwbTRSSFItzWwV0kpZJuf",
           playlistLink: "https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&feature=shared",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1Icej6svAbgd-RSzxY-_5y2EO6L1arocw"
         },
         {
           name: "Operating Systems",
@@ -638,7 +638,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1Uvg_5I8O_qEy8a9viTl-mXXRLxE9RkEB",
           playlistLink: "https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&feature=shared",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1c-XsoiYxvwBuhfSSAZnuH8zUw8Z-ht33"
         },
         {
           name: "Agile Software Development",
@@ -656,7 +656,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1TdrgiDukGedsPSjYRxMSwQsZOsamh9dC",
           playlistLink: "",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1MJl4ZiIwmqSugWA7uysu1Pimxj57Ydoq"
         },
         {
           name: "Statistics and Probability",
@@ -674,7 +674,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1XlZbicmJD80dPDwCGnINvMDlsnxNUcrA",
           playlistLink: "https://youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU&feature=shared",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/15aGWyaUOA7H27CVgLSGIKB8C2UUUAN5g"
         },
         {
           name: "Relational Database Management Systems",
@@ -683,7 +683,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1jk_FY3TwT63OUbNOI1tmucZvp4CvQtDZ",
           playlistLink: "https://youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV&si=V8GTDj7xybd_D5b2",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1QXEJq36UDhlCQbDgI4yu0CO7J-n4crUN"
         },
         {
           name: "Object-Oriented Programming",
@@ -692,7 +692,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1b_e32HdEpIxHPFv26rHVzfbHZZNSSAD-",
           playlistLink: "https://youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&feature=shared",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1p5AggBXr9_h_I70wU3o9rAm5BWu82PLz"
         },
         {
           name: "Management of Technology",
@@ -701,7 +701,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1SaleDZd8IjgQLHerSXnn6MjdFyimEdaC",
           playlistLink: "",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/17rwHqOiXnw8Nf8dZzYsfUsNyr6pwpRiy"
         },
         {
           name: "Principles of Artificial Intelligence",
@@ -710,7 +710,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1_oHSfPFD4LhROOjC_bLDSkdlwCKv-sd8",
           playlistLink: "https://youtube.com/playlist?list=PLDh_nHdEw3KOFxIcKyzynJHOp_6bjCYLs&feature=shared",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1QrFM4r4ofNBKTf84zHBc2qZOET-_wubf"
         },
         {
           name: "Economics",
@@ -728,7 +728,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1IxtYO4TgClezalvYz_C3JmFOI56BoNa4",
           playlistLink: "https://youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2&feature=shared",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1l2Y42E3i-RM8e6b_adLpLCUSFH3Vc3w0"
         },
         {
           name: "Computer Organization and Architecture",
