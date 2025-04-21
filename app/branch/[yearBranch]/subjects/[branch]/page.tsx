@@ -302,7 +302,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1MIviTRv8LkpB0WLz-XmBeLchMY3XxBtE",
           playlistLink: "https://youtube.com/playlist?list=PLXLVheoMxU22KHAUmDwQ_qWCSPav_G14Z&si=9YwhhHh88ZC_ayN9",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/12-TXQdBFhqm1naalasMZMw9rdcxSAZIs"
         },
         {
           name: "Statistics & Probability",
@@ -320,7 +320,7 @@ export default async function SubjectPage({
           notesLink: "http://drive.google.com/drive/folders/187KV-bondddfwbTRSSFItzWwV0kpZJuf",
           playlistLink: "https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&feature=shared",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1VWSsefJLW2Gr-hZqneSYUUc5niR7WAmD"
         },
         {
           name: "Data Structures and Algorithms",
@@ -338,7 +338,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1Uvg_5I8O_qEy8a9viTl-mXXRLxE9RkEB",
           playlistLink: "https://www.youtube.com/watch?v=3obEP8eLsCw&t=35487s",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1Lq0hQV52f4iyLWPZ72haeU2l__cnUBOx"
         },
         {
           name: "RDBMS",
@@ -365,7 +365,7 @@ export default async function SubjectPage({
           playlistLink: "https://www.youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8",
           roadmap: "",
           pyqLink: "https://drive.google.com/drive/folders/1GhfJBD036iUIJBaFPo6JRdy8_n22d2fx",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1cVMijymJdEF3_RgSCzDCIs2klipOOryg"
         },
         {
           name: "ACD",
@@ -374,7 +374,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1w9HQdLofig_rM3zWnCgY9xlFZtQofucC",
           playlistLink: "https://www.youtube.com/playlist?list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/14aWaZ3WEZjvAFcEVmUDrlik1L8-0-v3b"
         },
         {
           name: "Management of Technology",
@@ -383,7 +383,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1SaleDZd8IjgQLHerSXnn6MjdFyimEdaC",
           playlistLink: "",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/17rwHqOiXnw8Nf8dZzYsfUsNyr6pwpRiy"
         },
         {
           name: "CSA",
