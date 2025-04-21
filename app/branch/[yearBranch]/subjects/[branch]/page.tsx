@@ -220,7 +220,7 @@ export default async function SubjectPage({
           name: "Management of Technology",
           image: "https://drive.google.com/uc?export=view&id=1syTHiSXLp-L5CkfgHMiTQPi02tAO7cdF",
           pyqLink: "https://drive.google.com/drive/folders/1cTALhsY_zFL883HTrRJBOhx671LO2jmb",
-          notesLink: "https://drive.google.com/drive/folders/1MIviTRv8LkpB0WLz-XmBeLchMY3XxBtE",
+          notesLink: "https://drive.google.com/drive/folders/1SaleDZd8IjgQLHerSXnn6MjdFyimEdaC",
           playlistLink: "",
           roadmap: "",
           pptLink: ""
@@ -380,7 +380,7 @@ export default async function SubjectPage({
           name: "Management of Technology",
           image: "https://drive.google.com/uc?export=view&id=1syTHiSXLp-L5CkfgHMiTQPi02tAO7cdF",
           pyqLink: "https://drive.google.com/drive/folders/1o_RQnX3eAGIA14-JiRsiqcnxpBWXI5ee",
-          notesLink: "",
+          notesLink: "https://drive.google.com/drive/folders/1SaleDZd8IjgQLHerSXnn6MjdFyimEdaC",
           playlistLink: "",
           roadmap: "",
           pptLink: ""
@@ -557,7 +557,7 @@ export default async function SubjectPage({
           name: "Management and Organizational Theory",
           image: "https://drive.google.com/uc?export=view&id=1syTHiSXLp-L5CkfgHMiTQPi02tAO7cdF",
           pyqLink: "https://drive.google.com/drive/folders/1UJblblj9dCg6GMKO5-CZh7rpupZ4xyrt",
-          notesLink: "",
+          notesLink: "https://drive.google.com/drive/folders/1SaleDZd8IjgQLHerSXnn6MjdFyimEdaC",
           playlistLink: "",
           roadmap: "",
           pptLink: ""
@@ -698,7 +698,7 @@ export default async function SubjectPage({
           name: "Management of Technology",
           image: "https://drive.google.com/uc?export=view&id=1syTHiSXLp-L5CkfgHMiTQPi02tAO7cdF",
           pyqLink: "https://drive.google.com/drive/folders/1A-cszL6CulRBg_a5iam_hTKvfDGY0zc6",
-          notesLink: "",
+          notesLink: "https://drive.google.com/drive/folders/1SaleDZd8IjgQLHerSXnn6MjdFyimEdaC",
           playlistLink: "",
           roadmap: "",
           pptLink: ""
@@ -956,7 +956,7 @@ export default async function SubjectPage({
           name: "Management of Technology",
           image: "https://drive.google.com/uc?export=view&id=1syTHiSXLp-L5CkfgHMiTQPi02tAO7cdF",
           pyqLink: "https://drive.google.com/drive/folders/1mV0AmSDn16G6UJLutkEpoxTKBNurEAt3",
-          notesLink: "",
+          notesLink: "https://drive.google.com/drive/folders/1SaleDZd8IjgQLHerSXnn6MjdFyimEdaC",
           playlistLink: "",
           roadmap: "",
           pptLink: ""
@@ -1124,7 +1124,7 @@ export default async function SubjectPage({
           name: "Management of Technology",
           image: "https://drive.google.com/uc?export=view&id=1syTHiSXLp-L5CkfgHMiTQPi02tAO7cdF",
           pyqLink: "https://drive.google.com/drive/folders/1dtNb_TINiJWITIGQzb1E0_CPxNyQMhF1",
-          notesLink: "",
+          notesLink: "https://drive.google.com/drive/folders/1SaleDZd8IjgQLHerSXnn6MjdFyimEdaC",
           playlistLink: "",
           roadmap: "",
           pptLink: ""
