@@ -79,6 +79,24 @@ export const products = [
     thumbnail:
       "/anishPhoto.jpeg",
   },
+  {
+    title: "Chetanya Jolly",
+    link: "",
+    thumbnail:
+      "https://drive.google.com/uc?export=view&id=1m5tWVGwxc2i768SlVAzVPfVMLKy_xPHX",
+  },
+  {
+    title: "Swatantra choudhary",
+    link: "",
+    thumbnail:
+      "/swatantraPhoto.jpeg",
+  },
+  {
+    title: "Chanchal Agarwal",
+    link: "",
+    thumbnail:
+      "/chanchalPhoto.jpeg",
+  },
 ];
 
 
