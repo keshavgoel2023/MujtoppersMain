@@ -860,7 +860,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1jMrTLdLlR_UPfjZBKBllpo6fajmAFjr9",
           playlistLink: "https://youtube.com/playlist?list=PLXLVheoMxU20mH6OYmZ4DU0wtH8z8nKFa&si=dM9Toupt80RBsDOP",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/12hJMGwwRhd3zDzajvaiAzIh251Jk71Zp"
         },
         {
           name: "Data Communication",
@@ -869,7 +869,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1zN95UHvxH31eqNOguKs_x90uvkpf8SX4",
           playlistLink: "https://youtube.com/playlist?list=PLrjkTql3jnm9xaVXzOGH5Z_xvvBguUSat&si=ViHHBjtAZUf7hYSR",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1Eytdpjed6E8jMvqTlSEA3G0ATQ5jb1EM"
         },
         {
           name: "Data Structures and Algorithms",
@@ -878,7 +878,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1XlZbicmJD80dPDwCGnINvMDlsnxNUcrA",
           playlistLink: "https://youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU&feature=shared",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1Qn8JEKBRf5lHMPotjAvzJEHBHplSIbiT"
         },
         {
           name: "Object-Oriented Programming",
@@ -887,7 +887,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1RwavgM2xKSw0sD_d-kn8IOOODB1UpKuX",
           playlistLink: "https://youtube.com/playlist?list=PLQEaRBV9gAFujcBWJhBT2XXsuMlIfETBy&si=F-0hNBoIf8qkYMPA",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1toN4HmgOG_h_H5vIJu5sh5Ti9XfCxJwN"
         },
         {
           name: "Economics",
@@ -896,7 +896,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1MIviTRv8LkpB0WLz-XmBeLchMY3XxBtE",
           playlistLink: "https://youtube.com/playlist?list=PLXLVheoMxU22KHAUmDwQ_qWCSPav_G14Z&si=9YwhhHh88ZC_ayN9",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1xuVr2GGD7GW3fvSHWSeb_MImS1zC0I6p"
         },
         {
           name: "Data Communications and Computer Networks",
@@ -923,7 +923,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1Uvg_5I8O_qEy8a9viTl-mXXRLxE9RkEB",
           playlistLink: "https://www.youtube.com/watch?v=3obEP8eLsCw&t=35487s",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1LuZrj5gbZ4Y58mrYSbC3qf1ZWuZA3YYx"
         },
         {
           name: "Relational Database Management Systems",
@@ -932,7 +932,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1jk_FY3TwT63OUbNOI1tmucZvp4CvQtDZ",
           playlistLink: "https://youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV&si=V8GTDj7xybd_D5b2",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1i4PKFcyiqz5vWU0xA7Mg_1XlDYlPmV7j"
         },
         {
           name: "Web Technologies",
@@ -941,7 +941,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1fz3nzYRiFbXVceq-8GUrfP2hHL9vm_dI",
           playlistLink: "https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n&si=DdiAPPaTivOx16SM",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1Bn0SjURytEKtv-Ve-Wb2wrMChIQQpCZf"
         },
         {
           name: "Web Programming",
@@ -977,7 +977,7 @@ export default async function SubjectPage({
           notesLink: "https://drive.google.com/drive/folders/1w9HQdLofig_rM3zWnCgY9xlFZtQofucC",
           playlistLink: "https://www.youtube.com/playlist?list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T",
           roadmap: "",
-          pptLink: ""
+          pptLink: "https://drive.google.com/drive/folders/1LYIc4ZFqvuRZxRWG3Db_YgICrptWV8Y3"
         },
       ],
       third: [
