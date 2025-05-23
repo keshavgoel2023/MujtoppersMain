@@ -8,8 +8,9 @@ import { Menu, X } from "lucide-react"; // Import close icon
 const navItems = [
   { label: "Home", href: "/" },
   { label: "Material", href: "/#material" },
-  { label: "Order Food", href: "/order" },
+  // { label: "Order Food", href: "/order" },
   { label: "College Tip", href: "/collegeTip" },
+  { label: "Blogs", href: "/blogs"},
   // { label: "Post-Exams & Events", href: "/afterExams" },
   { label: "About Us", href: "/about" },
 ];
