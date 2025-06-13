@@ -69,6 +69,10 @@ export default {
           "typing-keyframes 4s steps(14) infinite, cursor-blink 0.8s infinite",
         "typing-words":
           "typing-keyframes 4s steps(14) infinite, cursor-blink 0.8s infinite, words-keyframes 6s steps(1) infinite",
+        "fade-in-down": "fade-in-down 0.5s ease-out forwards",
+        "fade-in-up": "fade-in-up 0.5s ease-out forwards",
+        "fade-in": "fade-in 0.5s ease-out forwards",
+        "pulse-slow": "pulse-slow 4s infinite",
       },
       keyframes: {
         scroll: {
@@ -108,6 +112,34 @@ export default {
           "5%, 20%, 25%, 40%, 45%, 60%, 65%, 80%, 85%": {
             width: "calc(100% + 8px)",
           },
+        },
+        "fade-in-down": {
+          "0%": {
+            opacity: "0",
+            transform: "translateY(-20px)",
+          },
+          "100%": {
+            opacity: "1",
+            transform: "translateY(0)",
+          },
+        },
+        "fade-in-up": {
+          "0%": {
+            opacity: "0",
+            transform: "translateY(20px)",
+          },
+          "100%": {
+            opacity: "1",
+            transform: "translateY(0)",
+          },
+        },
+        "fade-in": {
+          "0%": { opacity: "0" },
+          "100%": { opacity: "1" },
+        },
+        "pulse-slow": {
+          "0%, 100%": { opacity: "0.15" },
+          "50%": { opacity: "0.25" },
         },
       },
       borderRadius: {
