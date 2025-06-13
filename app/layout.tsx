@@ -4,6 +4,7 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import PlausibleProvider from "next-plausible";
+import { ReactQueryClientProvider } from "@/lib/reactqueryclient";
 
 // Choose a single premium font
 const inter = Inter({
@@ -24,6 +25,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
+    <ReactQueryClientProvider>
     <html lang="en">
       <body
         className={`${inter.variable} font-sans antialiased bg-gray-200/50`}
@@ -35,5 +37,6 @@ export default function RootLayout({
         </PlausibleProvider>
       </body>
     </html>
+    </ReactQueryClientProvider>
   );
 }
